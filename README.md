@@ -13,4 +13,4 @@ class 3 Customer Lifetime Value & Customer
 
 [class 4 Churn & Campaign Scoring](Link)
 
-[class 5 Customer Segmentation & Movement]()
+[class 5 Customer Segmentation & Movement](https://github.com/Piriyaa/MADT8101-Customer-Analytics/blob/main/Chapter-05%20Customer%20Segmentation%20&%20Movement/)
