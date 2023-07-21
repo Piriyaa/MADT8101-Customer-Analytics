@@ -1,5 +1,5 @@
-# Overview
-### Customer analytics is the process of collecting, analyzing, and interpreting data about customers to gain insights into their behavior, preferences, and needs. This information can be used to improve customer satisfaction, loyalty, and lifetime value.
+# Overview Customer analytics  
+#### the process of collecting, analyzing, and interpreting data about customers to gain insights into their behavior, preferences, and needs. This information can be used to improve customer satisfaction, loyalty, and lifetime value.
 
 Customer analytics can be used for a variety of purposes, including:
 
