@@ -4,8 +4,11 @@
 
 * Customer analytics can be used for a variety of purposes, including:
 
-    * Understanding customer behavior: Customer analytics can help businesses understand how customers interact with their products and services. This information can be used to improve the customer experience and make more       informed decisions about marketing and product development.
-      Identifying customer segments: Customer analytics can be used to identify groups of customers with similar characteristics and needs. This information can be used to target marketing campaigns more effectively and           deliver personalized experiences to customers.
+  * Understanding customer behavior: Customer analytics can help businesses understand how customers interact with their products and services. This information can be used to improve the customer experience and make more       informed decisions about marketing and product development.
+  * Identifying customer segments: Customer analytics can be used to identify groups of customers with similar characteristics and needs. This information can be used to target marketing campaigns more effectively and           deliver personalized experiences to customers.
+  *   Predicting customer churn: Customer analytics can be used to predict which customers are at risk of churning (canceling their subscription or service). This information can be used to take proactive steps to retain          customers, such as offering discounts or loyalty programs.
+  *   
+      There are a variety of tools and techniques that can be used for customer analytics, including:
       Predicting customer churn: Customer analytics can be used to predict which customers are at risk of churning (canceling their subscription or service). This information can be used to take proactive steps to retain          customers, such as offering discounts or loyalty programs.
       There are a variety of tools and techniques that can be used for customer analytics, including:
 
