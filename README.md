@@ -7,7 +7,7 @@ MADT8101-Customer-analytics class works and projects
 [class 1 Overview of Customer Analytic & Design Customer Data Platform](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-01%20Overview%20of%20Customer%20Analytics)
 
 
- [![](https://img.shields.io/badge/-Survey-red)]
+ ![](https://img.shields.io/badge/-Survey-red)
 
 
 
