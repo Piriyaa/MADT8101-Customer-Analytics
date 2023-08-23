@@ -13,3 +13,9 @@
   * Web analytics: Web analytics is the process of collecting and analyzing data about website traffic. This information can be used to understand how customers are finding and using your website, as well as to identify         opportunities to improve the user experience.
   * Social media analytics: Social media analytics is the process of collecting and analyzing data about social media activity. This information can be used to understand what customers are saying about your brand, as well      as to identify opportunities to engage with customers and build relationships.
 * Customer analytics is a powerful tool that can help businesses improve their understanding of customers and make more informed decisions about how to market and serve them. However, it is important to note that customer analytics is not a silver bullet. It is still important to have a strong understanding of customer needs and to use customer analytics in conjunction with other marketing and business intelligence tools.
+
+
+# Customer Data Platform (CDP)
+ A Customer Data Platform (CDP) is a software solution that collects, unifies, and activates customer data from a variety of sources. This data can then be used to create a single view of the customer, which can be used to improve marketing, sales, and customer service.
+
+ [Customer-Data-Platform-Metadata-2.jpg](https://postimg.cc/cvbpd7hY)
