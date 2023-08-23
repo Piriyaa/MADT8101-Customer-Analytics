@@ -15,7 +15,7 @@ class 3 Customer Lifetime Value & Customer
 
 [class 5 Customer Segmentation & Product Recommendation](https://github.com/Piriyaa/MADT8101-Customer-Analytics/blob/main/Chapter-05%20Customer%20Segmentation%20&%20Movement/)
 
-[class 6 Voice of Customer Analytics]
+class 6 Voice of Customer Analytics
 
 
 
