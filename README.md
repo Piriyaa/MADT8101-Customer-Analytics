@@ -17,7 +17,7 @@ MADT8101-Customer-analytics class works and projects
 
 [class 2 Build Customer Single View & Basic Customer Analytic](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-02%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic)
 
-class 3 Customer Lifetime Value & Customer
+class 3 Customer Lifetime Value & Customer Scoring
 
 [class 4 Churn & Campaign Scoring](Link)
 
