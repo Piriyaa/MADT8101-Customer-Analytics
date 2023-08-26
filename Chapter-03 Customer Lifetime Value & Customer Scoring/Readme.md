@@ -24,6 +24,9 @@ Parameter for Loyalty Program
 ![12](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/9c603237-a406-4d74-adc4-7e76c472fcf9)
 
 
+[Presentation ](https://www.canva.com/design/DAFspRhZTgo/no_m3vFBTiQNYdNGqQLKMw/edit?utm_content=DAFspRhZTgo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 
 
 
