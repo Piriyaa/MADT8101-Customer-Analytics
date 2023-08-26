@@ -7,3 +7,8 @@ When measuring CLV, it’s best to look at the total average revenue generated b
 * One of the best approaches for customer engagement is building loyalty programs. Loyalty programs are known to have a positive effect on improving CLV as they increase and enrich the interaction between a brand and its customers, boosting spending amounts and inducing repeat purchases.
 ![1](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/27bf2d4d-d947-464d-b7b8-1cb93e133d99)
 
+#### Factor for Loyalty Program
+![2](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/daa443a3-cb3c-47e7-9f29-80cfe74a0dfd)
+
+
+
