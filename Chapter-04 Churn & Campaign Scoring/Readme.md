@@ -38,5 +38,22 @@
 * PreferedOrderCat
 * MaritalStatus
 * Complain
-<img width="507" alt="3" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/4dbbc53c-955a-457b-9a9d-0d6dafac8b9e">
+
+## Trainging 
+normalize=True, fix_imbalance=True, data_split_stratify=True
+
+<img width="466" alt="4" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/4be5edb8-8980-4c76-b6c5-22878f024369">
+
+
+#### truning (best model)
+<img width="302" alt="5" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/19ef516a-d5bf-42cd-b242-bcdb56fd57d4">
+
+<img width="490" alt="6" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/7c6c8808-4aac-4013-972b-ae8c9b6a4ef9">
+
+
+<img width="418" alt="7" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/81b153ff-cee4-4828-8474-b991bdd36052">
+
+<img width="577" alt="8" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/4ee686ec-0c25-44c6-8c0c-9bc1b4f96af5">
+
+
 
