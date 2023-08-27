@@ -1,5 +1,7 @@
 # Customer segmentation and Product Recommendation
 [![](https://img.shields.io/badge/-Presentation-blue)](https://www.canva.com/design/DAFoHkXRm34/PqhOdS4l3N0tAQoGkxG6ig/edit?utm_content=DAFoHkXRm34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/drive/1Mnyg-nMVPV-fiZLrX0d0DBL3vogawOvV?usp=sharing)
+
 
 
 ## Content List
