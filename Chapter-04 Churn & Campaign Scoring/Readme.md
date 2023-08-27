@@ -28,5 +28,15 @@
 <img width="419" alt="Capture" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/f5c62ccc-fb05-4612-acc0-abd89ce2094a">
 
 
+## Feature selection
 
+### ignore_features 
+* PreferredLoginDevice
+* CityTier
+* PreferredPaymentMode
+* Gender
+* PreferedOrderCat
+* MaritalStatus
+* Complain
+<img width="507" alt="3" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/4dbbc53c-955a-457b-9a9d-0d6dafac8b9e">
 
