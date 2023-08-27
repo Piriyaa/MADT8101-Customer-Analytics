@@ -53,7 +53,9 @@ normalize=True, fix_imbalance=True, data_split_stratify=True
 
 confusion matrix 
 
-<img width="490" alt="6" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/7c6c8808-4aac-4013-972b-ae8c9b6a4ef9">
+![image](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/c9a17645-567d-4ae6-90f1-3c7cc608e4ee)
+
+
 
 
 <img width="418" alt="7" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/81b153ff-cee4-4828-8474-b991bdd36052">
