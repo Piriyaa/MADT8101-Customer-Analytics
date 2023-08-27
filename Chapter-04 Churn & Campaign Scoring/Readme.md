@@ -48,6 +48,9 @@ normalize=True, fix_imbalance=True, data_split_stratify=True
 #### truning (best model)
 <img width="302" alt="5" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/19ef516a-d5bf-42cd-b242-bcdb56fd57d4">
 
+
+confusion matrix 
+
 <img width="490" alt="6" src="https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/7c6c8808-4aac-4013-972b-ae8c9b6a4ef9">
 
 
