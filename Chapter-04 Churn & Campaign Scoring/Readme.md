@@ -1,4 +1,6 @@
 # Churn & Campaign Scoring
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-E-NmOCUtRu2kUYXGzXxlP0IHpipE8ft?usp=sharing)
+
 ## Import data
 * CustomerID	= Unique customer ID
 * Churn	Churn = Flag
