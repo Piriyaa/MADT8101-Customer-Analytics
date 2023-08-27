@@ -1,4 +1,6 @@
 # Customer segmentation and Product Recommendation
+[![](https://img.shields.io/badge/-Presentation-blue)](https://www.canva.com/design/DAFoHkXRm34/PqhOdS4l3N0tAQoGkxG6ig/edit?utm_content=DAFoHkXRm34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## Content List
 ![2](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/d0231838-4880-4f36-a046-7e90f2510277)
