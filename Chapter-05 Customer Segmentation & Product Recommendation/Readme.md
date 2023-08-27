@@ -29,7 +29,7 @@
 ## Product Recommendation
 
 ![22](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/4f728965-dd3c-48d2-b53b-acf9759afe08)
-![23](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/0e5214c4-6ca5-47e9-8547-eba93b642207)
+![24](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/64a7fce9-3d83-4184-86cf-8ff4de1704a5)
 
 ## Summary & Action
 ![26](https://github.com/Piriyaa/MADT8101-Customer-Analytics/assets/128346376/d94edc9c-6222-40e2-91e5-6fdc3096e430)
