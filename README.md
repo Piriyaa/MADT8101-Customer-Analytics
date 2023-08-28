@@ -48,7 +48,7 @@ MADT8101-Customer-analytics class works and projects
 
 
 
-Chapter-06 Voice of Customer Analytics
+[Chapter-06 Voice of Customer Analytics](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-06%20Voice%20of%20Customer%20Analytics)
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](#) 
 [![](https://img.shields.io/badge/-WordCloud-orange)](#)
