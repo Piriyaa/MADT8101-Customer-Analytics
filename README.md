@@ -4,10 +4,10 @@
 MADT8101-Customer-analytics class works and projects
 
 
-[class 1 Overview of Customer Analytic & Design Customer Data Platform](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-01%20Overview%20of%20Customer%20Analytics)
+[Chapter-01 Overview of Customer Analytic & Design Customer Data Platform](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-01%20Overview%20of%20Customer%20Analytics)
 
 
- ![](https://img.shields.io/badge/-Survey-red)
+ ![](https://img.shields.io/badge/-Survey-red) ![](https://img.shields.io/badge/-Presentation-yellow)
 
 
 
@@ -16,6 +16,9 @@ MADT8101-Customer-analytics class works and projects
 
 
 [class 2 Build Customer Single View & Basic Customer Analytic](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-02%20Build%20Customer%20Single%20View%20%26%20Basic%20Customer%20Analytic)
+
+![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg) ![](https://img.shields.io/badge/-Segmentation-orange)
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 
 
 
