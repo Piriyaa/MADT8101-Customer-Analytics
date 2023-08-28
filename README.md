@@ -23,7 +23,7 @@ MADT8101-Customer-analytics class works and projects
 
 [class 3 Customer Lifetime Value & Customer Scoring](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-03%20Customer%20Lifetime%20Value%20%26%20Customer%20Scoring)
 
-[class 4 Churn & Campaign Scoring](Link)
+[class 4 Churn & Campaign Scoring](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-04%20Churn%20%26%20Campaign%20Scoring)
 
 [class 5 Customer Segmentation & Product Recommendation](https://github.com/Piriyaa/MADT8101-Customer-Analytics/blob/main/Chapter-05%20Customer%20Segmentation%20&%20Movement/)
 
