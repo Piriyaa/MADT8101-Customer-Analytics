@@ -40,7 +40,7 @@ MADT8101-Customer-analytics class works and projects
 
 
 
-[Chapter-05 Customer Segmentation & Product Recommendation](https://github.com/Piriyaa/MADT8101-Customer-Analytics/blob/main/Chapter-05%20Customer%20Segmentation%20&%20Movement/)
+[Chapter-05 Customer Segmentation & Product Recommendation](https://github.com/Piriyaa/MADT8101-Customer-Analytics/tree/main/Chapter-05%20Customer%20Segmentation%20%26%20Product%20Recommendation)
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](#) 
 [![](https://img.shields.io/badge/-Segmentation-orange)](#)
